@@ -12,12 +12,20 @@ I used the following skills to manipulate the data and create the dashboard in E
 - Created a dashboard
 - The dashboard is completely dynamic and adjusts depending on the location, job_title and experience_level selected via the slicer.
 
-<img width="1426" alt="Screenshot 2023-02-21 at 12 09 33 AM" src="https://user-images.githubusercontent.com/121324724/220253198-7bfb7c58-eb50-4183-8f06-42a633965fe5.png">
-
+Recorded video
 
 
 
 https://user-images.githubusercontent.com/121324724/220253471-633d80d2-ad29-48cc-a5f7-8269fff6e29d.mov
+
+
+
+EXCEL Dashboard:
+
+<img width="978" alt="Screenshot 2023-02-21 at 12 09 33 AM" src="https://user-images.githubusercontent.com/121324724/220255311-5e1ecd21-8bfe-4bf2-9aa1-eec96958aa39.png">
+
+
+
 
 
 In Python I did:
@@ -38,5 +46,6 @@ Insights:
 - Data Scientist is most popular job followed by Data analyst with senior level of experience in demand.
 - Machine Learning Ops has highest salary range as 101k.
 
-
+Data Source: https://www.kaggle.com/datasets/milanvaddoriya/data-science-job-salary
+Tableau Visualization : https://public.tableau.com/app/profile/charanjit.kaur4974/viz/DataScienceJobSalaries_16732355754120/Dashboard1
 
