@@ -1,4 +1,4 @@
-# Data Science positions Job Salaries
+# Data Science positions Analysis
 
 This project looks at the data science job salary data collected by ai-jobs.net. I have performed data analysis in both EXCEL and Python for this project.
 
