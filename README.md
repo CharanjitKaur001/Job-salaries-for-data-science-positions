@@ -29,7 +29,7 @@ EXCEL Dashboard:
 
 
 In Python I did:
-- Data Reading usinf pandas.
+- Data Reading using pandas.
 - Data mining, Data Processing.
 - Removed null values, checked and removed outliers using boxplots, renamed few columns. 
 - Removed unnecessary data columns.
