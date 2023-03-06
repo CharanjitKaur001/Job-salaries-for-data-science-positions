@@ -3,7 +3,7 @@
 This project looks at the data science job salary data collected by ai-jobs.net. I have performed data analysis in both EXCEL and Python for this project.
 
 I used the following skills to manipulate the data and create the dashboard in Excel:
-- Data Cleaning,Removed Duplicates
+- Data Cleaning,Removal of Duplicates
 - Data manipulation. Replaced few location name data having special charaters with proper name using Find and Replace.
 - Slicers
 - Pivot Tables
